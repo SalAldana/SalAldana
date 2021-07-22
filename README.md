@@ -1,3 +1,6 @@
+![Coders Rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=salaldana)
+
+
 - 👋 Hi, I’m @SalAldana
 - 👀 I’m interested in Programming, Street Art, and Hip-Hop 
 - 🌱 I’m currently learning Svelte and the JavaScript ecosystem 
